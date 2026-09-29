@@ -10,8 +10,8 @@ body {
 
   background-color: black;
   color: white;
-  /* Jag Googlade vilken font apple använde och fick detta svar! */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  /* Denna Google font är ganska nära Apples egen font! */
+  font-family: "Inter", Arial, sans-serif;
 }
 
 /* Bildområdet fyller utrymmet under knapparna */
